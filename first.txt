@@ -5,3 +5,4 @@ gitを学習していきます。
 .git commit
 .git rm
 .git status
+.git diff
